@@ -1,14 +1,13 @@
 # API For IoT Project
 
 ## Teams Members :
-- Aldo Jendy Parewang - 04201010
-- Ahmad Usamah Ali - 11201005
-- Fauzan Andyka Ramadhani  - 11201031
-- Ismail Saputra Sapareng - 11201042
-- Jo Kevin Nataniel - 11201046
-- Mochamad Sa’adila Effendi - 11201057
-- Putra Cendikia Subekti - 11201074
-- Sahat Matua Sinaga - 11201086
+- Barrera Begazo, Raquel Yoselin
+- Carpio Mamani, Daniel Alejandro
+- Huaman Meza, Dionel
+- Quispe Pocohuanca, Gabriel Rodrigo
+- Quispe Velasque, Gustavo Julian
+- Rosas Huaihua, Derek Joe
+- Ticona Ylaquijo, Rony Brayan
 
 
 ## Overview
